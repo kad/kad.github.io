@@ -1,0 +1,18 @@
+- layout: top-middle
+  name: Intel Device Plugins for Kubernetes
+  link: github.com/intel/intel-device-plugins-for-kubernetes
+  github: intel/intel-device-plugins-for-kubernetes
+  quote: >
+    Enabling Intel accelerators (FPGA, QuickAssist, GPU, VPU, ...) in Cloud Native ecosystem
+  description: |
+    The project started as minimal enablement of Intel <mark>integrated GPU</mark> and <mark>FPGA</mark> accelerators in <mark>Kubernetes</mark>. Later on it grown with addition of support for <mark>QuickAssist</mark>, <mark>VPU</mark>, <mark>SGX</mark> and <mark>Device Plugin Operator</mark>
+
+- layout: top-middle
+  name: CRI Resource Manager for Kubernetes
+  link: github.com/intel/cri-resource-manager
+  github: intel/cri-resource-manager
+  quote: >
+    Advanced resource controls for Kubernetes workloads
+  description: |
+    CRI Resource Manager is a CRI proxy for <mark>Kubernetes</mark> that enables to inject custom resource policies that control <mark>CPU</mark>,
+    <mark>Memory (DRAM, PMEM, HBM)</mark>, <mark>Intel RDT (Cache, Memory Bandwidth)</mark>, <mark>Block I/O</mark>.

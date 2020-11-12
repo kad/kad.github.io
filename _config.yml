@@ -1,0 +1,69 @@
+# Site
+repository: kad/kad.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Alexander D. Kanevskiy
+title: Cloud Software Architect
+email: kad@kad.name
+website: kad.github.io
+
+# Social links
+twitter_username: lvader
+github_username:  kad
+facebook_username: akanevskiy
+instagram_username: lvader
+linkedin_username: akanevskiy
+#youtube_username: AlexanderKanevskiy
+
+# About Section
+# about_title: About Me
+about_profile_image: images/kad.jpg
+about_content: |
+  Hi, my name is Alexander Kanevskiy and I'm a software architect with wide range of experience in many areas, based in Finland.
+  I am currently working for Intel as a Cloud Software Architect on enabling Intel hardware features in Cloud Native Computing ecosystem.
+
+  I have worked with a range of different languages and frameworks and I am always ready to learn something new.
+  The things that I currently mostly working with are:
+  <mark>Kubernetes</mark>,
+  <mark>Containers</mark>,
+  <mark>Go</mark>,
+  <mark>Python</mark>,
+  <mark>CI/CD</mark>,
+  <mark>devops</mark>,
+  and many others.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: Few more things
+more_content: |
+  I had chances to speak on several conferences.
+    - Slides for most of my presentations can be found on [my Speakerdeck page](https://speakerdeck.com/kad).
+    - The list of [presentation recordings](/presentation-recordings)
+
+  Alongside my work related activities, some of my other interests and hobbies are:
+   - Driving cars and riding motorcycle
+   - [3D printing](/3d-printing)
+   - Board games
+   - Photography, airspotting in particular
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+#plugins:
+# - jekyll-seo-tag
