@@ -24,7 +24,9 @@ Below are list of links of related thing for 3D printing. Majority of informatio
 ## Links
 
 - [My Blog](/blog)
-- [My Thingiverse profile](https://www.thingiverse.com/lvader)
+- Thingiverse
+  - [My Thingiverse profile](https://www.thingiverse.com/lvader)
+  - [Anycubic Mega Zero Group](https://www.thingiverse.com/groups/anycubic-mega-zero)
 - Reddit
   - [/r/Anycubic](https://www.reddit.com/r/anycubic/)
   - [/r/AnycubicMegaZero](https://www.reddit.com/r/AnycubicMegaZero/)
