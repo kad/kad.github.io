@@ -11,6 +11,14 @@ title: Presentation Recordings
 
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
+<div align="center"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8058aac3-1730-45a9-a5ef-8247af0886d7" data-share-badge-host="https://www.youracclaim.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="250b9502-289c-4239-bb9e-b6f612c83a15" data-share-badge-host="https://www.youracclaim.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d63dc2e2-ddcb-4d3f-b3fa-ac4b71b5ec84" data-share-badge-host="https://www.youracclaim.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.youracclaim.com"></div>
+<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script></div>
+
+  - [KubeCon + CloudNativeCon North America 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+    - [Panel: Introduction to the Container Orchestrated Device (COD) Working Group - Renaud Gaubert, NVIDIA; Mike Brown, IBM; Mrunal Patel & Urvashi Mohnani, Red Hat; & Alexander Kanevskiy, Intel](https://sched.co/ekDv)
   - [KubeCon + CloudNativeCon North America 2019](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
     - [Mitigating Noisy Neighbours: Advanced Container Resource Management - Alexander Kanevskiy, Intel](https://sched.co/UabM) -- [[YouTube]](https://www.youtube.com/watch?v=9krJItZYX4U)
 
@@ -24,7 +32,7 @@ title: Presentation Recordings
     - [SIG Cluster Lifecycle: kubeadm Deep Dive – Alexander Kanevskiy, Timothy St. Clair & Luke Marsden](https://sched.co/Dro1) -- [[YouTube]](https://www.youtube.com/watch?v=3w5sZSxh4RI)
 
   - SIG-Node
-    - Hardware Resource Management -- [[YouTube]](https://www.youtube.com/watch?v=WtEb0oWwA9g)
+    - [Hardware Resource Management](https://speakerdeck.com/kad/sig-node-2020-05-12-experiences-of-advanced-resource-management-in-kubernetes) -- [[YouTube]](https://www.youtube.com/watch?v=WtEb0oWwA9g)
 
 # OSTConf, LinuxPiter
 
