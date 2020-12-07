@@ -18,7 +18,7 @@ title: Presentation Recordings
 <script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script></div>
 
   - [KubeCon + CloudNativeCon North America 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-    - [Panel: Introduction to the Container Orchestrated Device (COD) Working Group - Renaud Gaubert, NVIDIA; Mike Brown, IBM; Mrunal Patel & Urvashi Mohnani, Red Hat; & Alexander Kanevskiy, Intel](https://sched.co/ekDv)
+    - [Panel: Introduction to the Container Orchestrated Device (COD) Working Group - Renaud Gaubert, NVIDIA; Mike Brown, IBM; Mrunal Patel & Urvashi Mohnani, Red Hat; & Alexander Kanevskiy, Intel](https://sched.co/ekDv) -- [[YouTube]](https://www.youtube.com/watch?v=1k1sdf4mrpI)
   - [KubeCon + CloudNativeCon North America 2019](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
     - [Mitigating Noisy Neighbours: Advanced Container Resource Management - Alexander Kanevskiy, Intel](https://sched.co/UabM) -- [[YouTube]](https://www.youtube.com/watch?v=9krJItZYX4U)
 
