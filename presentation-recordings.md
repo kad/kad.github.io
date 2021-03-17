@@ -11,7 +11,8 @@ title: Presentation Recordings
 
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
-<div align="center"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8058aac3-1730-45a9-a5ef-8247af0886d7" data-share-badge-host="https://www.youracclaim.com"></div>
+<div align="center"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="087a52d7-bb51-4ce7-acf5-f66e11477f5e" data-share-badge-host="https://www.youracclaim.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8058aac3-1730-45a9-a5ef-8247af0886d7" data-share-badge-host="https://www.youracclaim.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="250b9502-289c-4239-bb9e-b6f612c83a15" data-share-badge-host="https://www.youracclaim.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d63dc2e2-ddcb-4d3f-b3fa-ac4b71b5ec84" data-share-badge-host="https://www.youracclaim.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.youracclaim.com"></div>
