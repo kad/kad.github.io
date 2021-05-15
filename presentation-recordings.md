@@ -18,6 +18,8 @@ title: Presentation Recordings
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.youracclaim.com"></div>
 <script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script></div>
 
+  - [KubeCon + CloudNativeCon Europe 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+    - [Maximizing Workload's Performance With Smarter Runtimes - Krisztian Litkey & Alexander Kanevskiy, Intel](https://sched.co/iE1Y) -- [[YouTube]](https://www.youtube.com/watch?v=BwQmjunIsFI)
   - [KubeCon + CloudNativeCon North America 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
     - [Panel: Introduction to the Container Orchestrated Device (COD) Working Group - Renaud Gaubert, NVIDIA; Mike Brown, IBM; Mrunal Patel & Urvashi Mohnani, Red Hat; & Alexander Kanevskiy, Intel](https://sched.co/ekDv) -- [[YouTube]](https://www.youtube.com/watch?v=1k1sdf4mrpI)
   - [KubeCon + CloudNativeCon North America 2019](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
