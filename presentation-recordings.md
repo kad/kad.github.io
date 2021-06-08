@@ -11,12 +11,15 @@ title: Presentation Recordings
 
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
-<div align="center"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="087a52d7-bb51-4ce7-acf5-f66e11477f5e" data-share-badge-host="https://www.youracclaim.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8058aac3-1730-45a9-a5ef-8247af0886d7" data-share-badge-host="https://www.youracclaim.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="250b9502-289c-4239-bb9e-b6f612c83a15" data-share-badge-host="https://www.youracclaim.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d63dc2e2-ddcb-4d3f-b3fa-ac4b71b5ec84" data-share-badge-host="https://www.youracclaim.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.youracclaim.com"></div>
-<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script></div>
+<div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40e8a080-0208-4397-8b7a-78f3ff97eb29" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="087a52d7-bb51-4ce7-acf5-f66e11477f5e" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8058aac3-1730-45a9-a5ef-8247af0886d7" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="250b9502-289c-4239-bb9e-b6f612c83a15" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d63dc2e2-ddcb-4d3f-b3fa-ac4b71b5ec84" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 
   - [KubeCon + CloudNativeCon Europe 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
     - [Maximizing Workload's Performance With Smarter Runtimes - Krisztian Litkey & Alexander Kanevskiy, Intel](https://sched.co/iE1Y) -- [[YouTube]](https://www.youtube.com/watch?v=BwQmjunIsFI)
