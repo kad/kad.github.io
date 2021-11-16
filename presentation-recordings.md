@@ -12,6 +12,7 @@ title: Presentation Recordings
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
 <div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8280b82-75fb-46b0-8f5e-9b06eb25475e" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40e8a080-0208-4397-8b7a-78f3ff97eb29" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="087a52d7-bb51-4ce7-acf5-f66e11477f5e" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8058aac3-1730-45a9-a5ef-8247af0886d7" data-share-badge-host="https://www.credly.com"></div>
@@ -49,7 +50,9 @@ title: Presentation Recordings
     - [Kubernetes Resource Management - Alexander Kanevskiy, Krisztian Litkey](https://ostconf.com/en/events/15266/materials/2670) -- [[YouTube]](https://www.youtube.com/watch?v=H7-Ayr515kQ)
 
 
-# Embedded Linux Conference
+# Open Source Summit + Embedded Linux Conference
 
+  - [OSS ELC OSPOCon 2021](https://events.linuxfoundation.org/open-source-summit-north-america/)
+    - [Panel Discussion: State of Art for Enabling Performance Sensitive Workloads and What We Need Next - Swati Sehgal, Red Hat; Alexey Perevalov, Huawei; Alexander Kanevskiy, Intel; Gergely Csatari, Nokia; Cliff Burdick, Nvidia](https://sched.co/lATg) -- [[YouTube]](https://www.youtube.com/watch?v=fnMFbGramSU)
   - [Embedded Linux Conference Europe 2016](http://events17.linuxfoundation.org/events/archive/2016/embedded-linux-conference-europe)
     - [Creating Continuous Delivery for Yocto Based IoT Distribution - Alexander Kanevskiy, Intel](https://sched.co/7rrB) -- [[YouTube]](https://youtu.be/pBz3fyTCQzU)
