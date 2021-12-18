@@ -56,3 +56,9 @@ title: Presentation Recordings
     - [Panel Discussion: State of Art for Enabling Performance Sensitive Workloads and What We Need Next - Swati Sehgal, Red Hat; Alexey Perevalov, Huawei; Alexander Kanevskiy, Intel; Gergely Csatari, Nokia; Cliff Burdick, Nvidia](https://sched.co/lATg) -- [[YouTube]](https://www.youtube.com/watch?v=fnMFbGramSU)
   - [Embedded Linux Conference Europe 2016](http://events17.linuxfoundation.org/events/archive/2016/embedded-linux-conference-europe)
     - [Creating Continuous Delivery for Yocto Based IoT Distribution - Alexander Kanevskiy, Intel](https://sched.co/7rrB) -- [[YouTube]](https://youtu.be/pBz3fyTCQzU)
+
+
+# Other
+
+ - [Kubernetes для разработчиков](https://slurm.io/kubernetes-for-developers-school)
+   - Урок 23: Средства Intel для повышения производительности работы приложений -- [[YouTube]](https://www.youtube.com/watch?v=LIqM5qBHwbs)
