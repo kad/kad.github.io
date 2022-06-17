@@ -41,6 +41,9 @@ title: Presentation Recordings
   - [KubeCon + CloudNativeCon Europe 2018](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/)
     - [SIG Cluster Lifecycle: kubeadm Deep Dive – Alexander Kanevskiy, Timothy St. Clair & Luke Marsden](https://sched.co/Dro1) -- [[YouTube]](https://www.youtube.com/watch?v=3w5sZSxh4RI)
 
+  - [Kubernetes Batch + HPC Day Europe 2022](https://events.linuxfoundation.org/kubernetes-batch-hpc-day-europe/)
+    - [Get More Computing Power by Helping the OS Scheduler - Antti Kervinen, Intel & Alexander Kanevskiy, Intel](https://sched.co/10F0n) -- [[YouTube]](https://www.youtube.com/watch?v=2x91cUR9ER4)
+
   - SIG-Node
     - [Hardware Resource Management](https://speakerdeck.com/kad/sig-node-2020-05-12-experiences-of-advanced-resource-management-in-kubernetes) -- [[YouTube]](https://www.youtube.com/watch?v=WtEb0oWwA9g)
 
