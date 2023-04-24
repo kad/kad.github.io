@@ -53,6 +53,9 @@ title: Presentation Recordings
   - SIG-Node
     - [Hardware Resource Management](https://speakerdeck.com/kad/sig-node-2020-05-12-experiences-of-advanced-resource-management-in-kubernetes) -- [[YouTube]](https://www.youtube.com/watch?v=WtEb0oWwA9g)
 
+  - Red Hat's Container Plumbing Days
+    - [Future of CRI and Container Runtimes](https://containerplumbing.org/sessions/2023/future_of_cri_an) -- [[YouTube]](https://www.youtube.com/watch?v=jvx929pHSHY)
+
 # OSTConf, LinuxPiter
 
   - [LinuxPiter 2018](https://ostconf.com/en/events/11688)
