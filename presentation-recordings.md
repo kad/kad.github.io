@@ -12,6 +12,7 @@ title: Presentation Recordings
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
 <div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="579db438-cd72-43ad-be0c-2a05f5943a1c" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b900ff39-0e79-40dc-b98e-c6a45dd0ac48" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8280b82-75fb-46b0-8f5e-9b06eb25475e" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40e8a080-0208-4397-8b7a-78f3ff97eb29" data-share-badge-host="https://www.credly.com"></div>
@@ -29,6 +30,8 @@ title: Presentation Recordings
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+  - [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+    - [Node Resource Management: The Big Picture - Sascha Grunert & Swati Sehgal, Red Hat; Alexander Kanevskiy, Intel; Evan Lezar, NVIDIA; David Porter, Google](https://sched.co/1HyVB) -- [[YouTube]](https://www.youtube.com/watch?v=LjhgklNNAtA)
   - [KubeCon + CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america)
     - [Improving User Experience For Device Consumption In Kubernetes - Alexander Kanevskiy & Patrick Ohly, Intel & Kate Goldenring, Fermyon](https://sched.co/182GN) -- [[YouTube]](https://www.youtube.com/watch?v=0Gnh86queVQ)
   - [KubeCon + CloudNativeCon Europe 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
