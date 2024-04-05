@@ -12,6 +12,7 @@ title: Presentation Recordings
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
 <div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9129de75-6a92-49af-8b9f-fbb272aceb0e" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="579db438-cd72-43ad-be0c-2a05f5943a1c" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b900ff39-0e79-40dc-b98e-c6a45dd0ac48" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8280b82-75fb-46b0-8f5e-9b06eb25475e" data-share-badge-host="https://www.credly.com"></div>
@@ -19,6 +20,8 @@ title: Presentation Recordings
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.credly.com"></div>
 </div>
 <div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e8f5496-1ffa-4677-84ca-8ad2b68c2e74" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7d778fb3-3a92-4b76-bb02-c154217c8559" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7bfba30b-98ee-463c-8d19-8a3ab8a17db1" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2734a380-3e9b-4b36-a0ea-8dfebb9d03ba" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3fcb3f01-6af4-4ca7-88be-51cffd7e99f3" data-share-badge-host="https://www.credly.com"></div>
