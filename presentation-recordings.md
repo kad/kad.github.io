@@ -35,6 +35,8 @@ title: Presentation Recordings
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+  - [KubeCon + CloudNativeCon North America 2024](https://kccncna2024.sched.com/)
+    - [Architecting Tomorrow: The Heterogeneous Compute Resources for New Types of Workloads - Alexander Kanevskiy, Intel](https://sched.co/1i7ke) -- [[YouTube]](https://www.youtube.com/watch?v=jyovyLafMOs)
   - [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
     - [Node Resource Management: The Big Picture - Sascha Grunert & Swati Sehgal, Red Hat; Alexander Kanevskiy, Intel; Evan Lezar, NVIDIA; David Porter, Google](https://sched.co/1HyVB) -- [[YouTube]](https://www.youtube.com/watch?v=LjhgklNNAtA)
   - [KubeCon + CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america)
