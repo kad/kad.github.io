@@ -12,7 +12,7 @@ title: Presentation Recordings
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
 <div align="center">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0295f579-4b1d-4c1a-9a4e-f2b2199ab7af" data-share-badge-host="https://www.credly.com">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0295f579-4b1d-4c1a-9a4e-f2b2199ab7af" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9129de75-6a92-49af-8b9f-fbb272aceb0e" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="579db438-cd72-43ad-be0c-2a05f5943a1c" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b900ff39-0e79-40dc-b98e-c6a45dd0ac48" data-share-badge-host="https://www.credly.com"></div>
