@@ -23,6 +23,8 @@ title: Presentation Recordings
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d32778-cfe4-4988-b094-8f11ecccea88" data-share-badge-host="https://www.credly.com"></div>
 </div>
 <div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f97fa27b-4238-4a20-8855-b0880f5dfadb" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="743ba278-e2a6-45b2-805e-ff2149d966c3" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e8f5496-1ffa-4677-84ca-8ad2b68c2e74" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7d778fb3-3a92-4b76-bb02-c154217c8559" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7bfba30b-98ee-463c-8d19-8a3ab8a17db1" data-share-badge-host="https://www.credly.com"></div>
