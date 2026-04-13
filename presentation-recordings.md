@@ -12,6 +12,7 @@ title: Presentation Recordings
 # KubeCon & CloudNativeCon, CNCF and Kubernetes communities
 
 <div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1080fa4f-9288-4595-95a6-a4b0fd5727cd" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0143930f-b269-41d1-944e-a552472dee12" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf80c1fd-7403-4e8e-9502-db4aebf6ea07" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0295f579-4b1d-4c1a-9a4e-f2b2199ab7af" data-share-badge-host="https://www.credly.com"></div>
@@ -39,6 +40,8 @@ title: Presentation Recordings
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+  - [KubeCon + CloudNativeCon Europe 2026 -- Cloud Native Telco Day](https://colocatedeventseu2026.sched.com/)
+    - [Extracting the Last Microseconds of Performance From Containerized Workloads - Feruzjon Muyassarov, Ericsson Software Technology & Alexander Kanevskiy, Intel](https://sched.co/2DY6R)
   - [KubeCon + CloudNativeCon Europe 2025](https://kccnceu2025.sched.com/)
     - [Discover CNCF TAG Runtime: Advancing Cloud-Native Innovation from AI to Edge - Ricardo Aravena, Snowflake; Stephen Rust, Akamai; Rajas Kokodkar, Broadcom; Alexander Kanevskiy, Intel; Danielle Tal, Microsoft](https://sched.co/1tgwS)
   - [KubeCon + CloudNativeCon North America 2024](https://kccncna2024.sched.com/)
