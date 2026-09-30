@@ -75,6 +75,10 @@ title: Presentation Recordings
   - Red Hat's Container Plumbing Days
     - [Future of CRI and Container Runtimes](https://containerplumbing.org/sessions/2023/future_of_cri_an) -- [[YouTube]](https://www.youtube.com/watch?v=jvx929pHSHY)
 
+  - ContainerDays & AIContecxt Hamburg 2026
+    - [Optimizing Kubernetes for Low-Latency and Real-Time Containers](https://www.containerdays.io/containerdays-hamburg-2026/agenda/) -- [[YouTube]](https://www.youtube.com/watch?v=nqkLfW_Fbto)
+
+
 # OSTConf, LinuxPiter
 
   - [LinuxPiter 2018](https://ostconf.com/en/events/11688)
